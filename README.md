@@ -7,7 +7,8 @@ Projeto acadêmico de iniciação em ADS.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** Python / JavaScript / Java
+* **Linguagens:** https://img.shields.io/badge/Python
+Python / JavaScript / Java
 * **Fluxograma:** Flowgorithm
 * **Ferramentas:** Git / GitHub
 
