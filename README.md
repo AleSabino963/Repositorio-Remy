@@ -1,16 +1,16 @@
-# Guilda Remy 🐭
+# Projeto Remy 🐭
 
 
 ## 📝 Sobre o Projeto
-Projeto acadêmico de iniciação em ADS.
+O projeto tem o objetivo de cadastrar insumos com seu nome, peso e custos para depois formar receitas com um conjunto de insumos e calcular seu custo. No final, o programa mostrará os lucros ou perdas da empresa.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** (https://img.shields.io/badge/Python)
-Python / JavaScript / Java
-* **Fluxograma:** Flowgorithm
-* **Ferramentas:** Git / GitHub
+**Linguagens:**
+* **Backend** ![Static Badge](https://img.shields.io/badge/Python-white?logo=Python&logoColor=White&labelColor=black&color=blue)
+* **Frontend:** ![Static Badge](https://img.shields.io/badge/Figma-white?logo=Figma&logoColor=White&labelColor=black&color=orange)
+* **Ferramentas:** ![Static Badge](https://img.shields.io/badge/Github-white?logo=Github&logoColor=White&labelColor=black&color=grey)
 
 ---
 
