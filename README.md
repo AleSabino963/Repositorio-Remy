@@ -1,7 +1,7 @@
 # Projeto Remy 🐭
 
 ## 📝 Sobre o Projeto
-O projeto tem o objetivo de cadastrar insumos com seu nome, peso e custos para depois formar receitas com um conjunto de insumos e calcular seu custo. No final, o programa mostrará os lucros ou perdas da empresa.
+O projeto tem como objetivo: organizar insumos e receitas, mostrando os lucros ou prejuízo de cada empresa. Faz-se o cadastro de cada insumo com um nome, seu peso e seu custo. Depois, as receitas podem ser feitas com um conjunto de insumos cadastrados, calculando seu custo total. No final, o programa mostrará os lucros ou prejuízos de cada receita ou da empresa no geral.
 
 ---
 
@@ -23,7 +23,7 @@ O projeto tem o objetivo de cadastrar insumos com seu nome, peso e custos para d
 
 ---
 
-## 👥 Integrantes e Papéis
+## 👥 Integrantes
 
 Conheça a equipe responsável pelo desenvolvimento do projeto:
 
