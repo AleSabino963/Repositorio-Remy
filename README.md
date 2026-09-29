@@ -25,7 +25,7 @@ Conheça a equipe responsável pelo desenvolvimento do projeto:
 | ⚙️ | **Thiago Luis Sabino Leão** | Integrador | [🔗]() |
 | 🧪 | **Yasmim Gabrielle** | Qualidade (QA) | [🔗](https://www.linkedin.com/in/yasmim-gabrielle-48942242b/) |
 | ✍️ | **Gregorio Rossi** | Dev | [🔗](https://www.linkedin.com/in/gregoriorossi/) | 
-| ✍️ | **Camila Rios** | Dev | [🔗] (https://www.linkedin.com/in/camila-rios-3b8044411/) |
+| ✍️ | **Camila Rios** | Dev | [🔗]  |
 ---
 
 ## 🚀 Como Executar o Projeto
