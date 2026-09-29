@@ -13,6 +13,14 @@ O projeto tem o objetivo de cadastrar insumos com seu nome, peso e custos para d
 
 **Diagramas:**
 * [UML Lista de Insumos](https://github.com/AleSabino963/Repositorio-Remy/blob/7e1e5adf15d295f4d60b563206eea9f138755019/Diagramas/UML_Insumos.md)
+
+**Fluxogramas:**
+* [Cadastro de Usuário/Empresa](https://github.com/AleSabino963/Repositorio-Remy/blob/7bad4f016fef03c08e61db5559e8f2809e39104a/Fluxogramas/Cadastro_de_Empresa.pdf)
+* [Login](https://github.com/AleSabino963/Repositorio-Remy/blob/6c4946f958b28cd3734b6fe05055137e93ec9a00/Fluxogramas/Tela_de_Login.pdf)
+* [Cadastro de Insumo](https://github.com/AleSabino963/Repositorio-Remy/blob/6c4946f958b28cd3734b6fe05055137e93ec9a00/Fluxogramas/Cadastro_de_Insumo.pdf)
+* [Lista de Insumos](https://github.com/AleSabino963/Repositorio-Remy/blob/6c4946f958b28cd3734b6fe05055137e93ec9a00/Fluxogramas/Lista_de_Insumos.pdf)
+* [Ficha Técnica](https://github.com/AleSabino963/Repositorio-Remy/blob/7bad4f016fef03c08e61db5559e8f2809e39104a/Fluxogramas/Ficha_Tecnica.pdf)
+
 ---
 
 ## 👥 Integrantes e Papéis
