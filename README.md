@@ -30,7 +30,7 @@ Conheça a equipe responsável pelo desenvolvimento do projeto:
 | Nome | GitHub / LinkedIn |
 | :---: | :---: |
 | **Alexandre Sabino** | [:octocat:](https://github.com/AleSabino963) / [🔗](https://www.linkedin.com/in/raydam963/) |
-| **Camila Rios** | [:octocat:](https://github.com/camilarioos) / [🔗]()  |
+| **Camila Rios** | [:octocat:](https://github.com/camilarioos) / [🔗](https://www.linkedin.com/in/camila-rios-3b8044411/)  |
 | **Gregorio Rossi** | [:octocat:](https://github.com/gregrossidev) / [🔗](https://www.linkedin.com/in/gregoriorossi/) | 
 | **Maria da Gloria Baracat** | [:octocat:](https://github.com/gbaracat) / [🔗](https://www.linkedin.com/in/maria-da-gloria-baracat/) | 
 | **Thiago Luis Sabino Leão** | [:octocat:](https://github.com/thiagolyon-arch) / [🔗]() |
