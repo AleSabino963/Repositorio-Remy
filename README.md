@@ -13,6 +13,7 @@ O projeto tem como objetivo: organizar insumos e receitas, mostrando os lucros o
 
 **Diagramas:**
 * [UML Lista de Insumos](https://github.com/AleSabino963/Repositorio-Remy/blob/7e1e5adf15d295f4d60b563206eea9f138755019/Diagramas/UML_Insumos.md)
+* [UML Cadastro de Empresas](https://github.com/AleSabino963/Repositorio-Remy/blob/main/Diagramas/Cadastro_UML.md)
 
 **Fluxogramas:**
 * [Cadastro de Usuário/Empresa](https://github.com/AleSabino963/Repositorio-Remy/blob/7bad4f016fef03c08e61db5559e8f2809e39104a/Fluxogramas/Cadastro_de_Empresa.pdf)
