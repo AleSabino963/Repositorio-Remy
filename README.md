@@ -27,6 +27,11 @@ O projeto tem como objetivo: organizar insumos e receitas, mostrando os lucros o
 * [Telas](https://www.figma.com/design/iDRQtm9LA2y4xqvRInneVB/Telas?node-id=0-1&t=fydcLeSrVysIxY4L-1)
 ---
 
+## Metodologia
+O projeto utiliza princípios de metodologia ágil, organizando o desenvolvimento e acompanhamentos de atividades por meio de:
+* **Kanban**, para organizar e acompanhar o andamento das tarefas;
+* **GitHub Projects**, utilizando para gerenciar as tarefas e visualizar o fluxo de desenvolvimento.
+  
 ## 👥 Integrantes
 
 Conheça a equipe responsável pelo desenvolvimento do projeto:
