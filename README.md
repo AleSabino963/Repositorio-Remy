@@ -23,6 +23,8 @@ O projeto tem como objetivo: organizar insumos e receitas, mostrando os lucros o
 * [Lista de Insumos](https://github.com/AleSabino963/Repositorio-Remy/blob/6c4946f958b28cd3734b6fe05055137e93ec9a00/Fluxogramas/Lista_de_Insumos.pdf)
 * [Ficha Técnica](https://github.com/AleSabino963/Repositorio-Remy/blob/7bad4f016fef03c08e61db5559e8f2809e39104a/Fluxogramas/Ficha_Tecnica.pdf)
 
+**Interface das Telas:**
+* [Telas](https://www.figma.com/design/iDRQtm9LA2y4xqvRInneVB/Telas?node-id=0-1&t=fydcLeSrVysIxY4L-1)
 ---
 
 ## 👥 Integrantes
