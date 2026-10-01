@@ -1,7 +1,9 @@
 # Projeto Remy 🐭
 
 ## 📝 Sobre o Projeto
-O projeto tem como objetivo: organizar insumos e receitas, mostrando os lucros ou prejuízo de cada empresa. Faz-se o cadastro de cada insumo com um nome, seu peso e seu custo. Depois, as receitas podem ser feitas com um conjunto de insumos cadastrados, calculando seu custo total. No final, o programa mostrará os lucros ou prejuízos de cada receita ou da empresa no geral.
+O Remy é um plataforma de precificação, focada no pequeno e médio empresário. 
+O projeto tem como objetivo: organizar receitas e calcular o uso correto dos insumos, mostrando os lucros e margens de cada receita. 
+Faz-se o cadastro de cada insumo com um nome, seu peso e seu custo. Depois, as receitas podem ser feitas com um conjunto de insumos cadastrados, calculando seu custo total. No final, a plataforma mostrará os lucros ou prejuízos de cada receita.
 
 ---
 
